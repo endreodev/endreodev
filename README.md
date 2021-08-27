@@ -2,10 +2,11 @@
   <h1>Hi Dev! I'm &lt;Endreo Figueiredo&gt;</h1>
   <hr>
   <h3> 👧: &nbsp;About Me </h3>
-  - 🎓 &nbsp; Student Systems Analysis and Development on <a href="https://www.icec.edu.br/">ICEC</a> <br>
-  - 🎓 &nbsp; Student Systems DevOps on <a href="https://hnz.com.br/">Delphos-Zhuber Informatica e Consultoria</a> <br>
+  - 🎓 &nbsp; University graduate Computer network on <a  target="_blank" href="https://www.icec.edu.br/">ICEC</a> <br>
+  - 🎓 &nbsp; MBA - Software Engineering on <a  target="_blank"  href="https://www.estudesemfronteiras.com/novo/">ICEC</a> <br>
+  - 🎓 &nbsp; Student Systems DevOps on <a  target="_blank"  href="https://hnz.com.br/">Delphos-Zhuber Informatica e Consultoria</a> <br>
  <br>
-  - 💼 &nbsp; Working  on <a href="https://www.todimo.com.br/">Todimo</a>
+  - 💼 &nbsp; Working  on <a  target="_blank"  href="https://www.todimo.com.br/">Todimo</a>
   
   
   <h3>Languages and Tools</h3>
@@ -22,14 +23,14 @@
   <hr>
   <p align="left">
 
-  <a href="https://api.whatsapp.com/send?phone=5565981719837&text=Ola!%20Te%20encontrei%20no%20Git" alt="Whatsapp">
+  <a   target="_blank" href="https://api.whatsapp.com/send?phone=5565981719837&text=Ola!%20Te%20encontrei%20no%20Git" alt="Whatsapp">
   <img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/1200px-WhatsApp_logo.svg.png" /></a>
 
-  <a address="mailto:endreo.cba@gmail.com" alt="Gmail">
+  <a  target="_blank"  address="mailto:endreo.cba@gmail.com" alt="Gmail">
   <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=endreo.cba@gmail.com" /></a>
 
 
-  <a href="https://www.linkedin.com/in/endreo-figueiredo-ab1005138/" alt="Linkedin">
+  <a  target="_blank"  href="https://www.linkedin.com/in/endreo-figueiredo-ab1005138/" alt="Linkedin">
   <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endreo-figueiredo-ab1005138/" /></a>
 
   </p>
