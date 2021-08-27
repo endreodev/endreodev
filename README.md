@@ -1,10 +1,8 @@
 <html>
   <h1>Hi Dev! I'm &lt;Endreo Figueiredo&gt;</h1>
   <hr>
-  
   <h3> 👧: &nbsp;About Me </h3>
-  
-  - 🎓 &nbsp; Student Systems Analysis and Development on <a href="https://www.icec.edu.br/">FATEC</a> <br>
+  - 🎓 &nbsp; Student Systems Analysis and Development on <a href="https://www.icec.edu.br/">ICEC</a> <br>
   - 🎓 &nbsp; Student Systems DevOps on <a href="https://hnz.com.br/">Delphos-Zhuber Informatica e Consultoria</a> <br>
  <br>
   - 💼 &nbsp; Working  on <a href="https://www.todimo.com.br/">Todimo</a>
