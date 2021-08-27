@@ -15,6 +15,7 @@
     <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code>
     <code><img height="34" width="100" src="https://nextbigtechnology.com/wp-content/uploads/2020/10/Flutter-Cover.png" alt="Flutter"/></code>
     <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="Vs"/></code>
     <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=fc03f0&logoColor=white" alt="Bootstrap"/></code>
     <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></code>
 
