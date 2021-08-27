@@ -37,15 +37,15 @@
   </p>
   
   Licenças e certificados
-  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: JavaScript &nbsp;&nbsp; <span>DevMedia<\span>
-  - :white_check_mark:🎓 &nbsp;Flutter: Criando a primeira aplicação &nbsp;&nbsp; <span>DevMedia<\span>
-  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: Flutter &nbsp;&nbsp;&nbsp; <span>DevMedia<\span>
-  - :white_check_mark:🎓 &nbsp;Introdução a linguagem JavaScript &nbsp;&nbsp;&nbsp; <span>DevMedia<\span>
-  - :white_check_mark:🎓 &nbsp;Curso Preparatório para a certificação DevOps Master &nbsp;&nbsp;&nbsp; <span>Exin DevOps Master<\span>
-  - :white_check_mark:🎓 &nbsp;Treinamento - Programação ADVPL - Versão 10  &nbsp;&nbsp;&nbsp; <span>Totvs<\span>
-  - :white_check_mark:🎓 &nbsp;Gestão de Usuários - Protheus  &nbsp;&nbsp;&nbsp; <span>Totvs<\span>
-  - :white_check_mark:🎓 &nbsp;Arquivos, Tabelas e Campos - Configurador  Totovs  &nbsp;&nbsp;&nbsp; <span>Totvs<\span>
-  - :white_check_mark:🎓 &nbsp;O Coaching Aplicado à Liderança &nbsp;&nbsp;&nbsp; <span>Grandy<\span>
+  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: JavaScript                  DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Flutter: Criando a primeira aplicação                  DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: Flutter                     DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Introdução a linguagem JavaScript                      DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Curso Preparatório para a certificação DevOps Master   Exin DevOps Master :school:
+  - :white_check_mark:🎓 &nbsp;Treinamento - Programação ADVPL - Versão 10            Totvs :school:
+  - :white_check_mark:🎓 &nbsp;Gestão de Usuários - Protheus                          Totvs :school:
+  - :white_check_mark:🎓 &nbsp;Arquivos, Tabelas e Campos - Configurador  Totovs      Totvs :school:
+  - :white_check_mark:🎓 &nbsp;O Coaching Aplicado à Liderança                        Grandy :school:
   
 
 </html>
