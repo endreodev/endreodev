@@ -37,63 +37,16 @@
   </p>
   
   Licenças e certificados
-DevMedia
-Certificado de autoridade: JavaScript
-Órgão emissorDevMedia
+  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: JavaScript &nbsp;&nbsp; <span>DevMedia<\span>
+  - :white_check_mark:🎓 &nbsp;Flutter: Criando a primeira aplicação &nbsp;&nbsp; <span>DevMedia<\span>
+  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: Flutter &nbsp;&nbsp;&nbsp; <span>DevMedia<\span>
+  - :white_check_mark:🎓 &nbsp;Introdução a linguagem JavaScript &nbsp;&nbsp;&nbsp; <span>DevMedia<\span>
+  - :white_check_mark:🎓 &nbsp;Curso Preparatório para a certificação DevOps Master &nbsp;&nbsp;&nbsp; <span>Exin DevOps Master<\span>
+  - :white_check_mark:🎓 &nbsp;Treinamento - Programação ADVPL - Versão 10  &nbsp;&nbsp;&nbsp; <span>Totvs<\span>
+  - :white_check_mark:🎓 &nbsp;Gestão de Usuários - Protheus  &nbsp;&nbsp;&nbsp; <span>Totvs<\span>
+  - :white_check_mark:🎓 &nbsp;Arquivos, Tabelas e Campos - Configurador  Totovs  &nbsp;&nbsp;&nbsp; <span>Totvs<\span>
+  - :white_check_mark:🎓 &nbsp;O Coaching Aplicado à Liderança &nbsp;&nbsp;&nbsp; <span>Grandy<\span>
+  
 
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em ago. de 2021Nenhuma data de expiração
-
-Visualizar credencial
-DevMedia
-Flutter: Criando a primeira aplicação
-Órgão emissorDevMedia
-
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em abr. de 2021Nenhuma data de expiração
-
-Visualizar credencial
-DevMedia
-Certificado de autoridade: Flutter
-Órgão emissorDevMedia
-
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em fev. de 2021Nenhuma data de expiração
-
-Visualizar credencial
-DevMedia
-Certificado de autoridade: Flutter
-Órgão emissorDevMedia
-
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jan. de 2021Nenhuma data de expiração
-
-Identificador da credencialNº da credencial https://www.devmedia.com.br/certificado/tecnologia/flutter/endreo-figueiredo
-
-Visualizar credencial
-DevMedia
-Introdução a linguagem JavaScript
-Órgão emissorDevMedia
-
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jan. de 2021Nenhuma data de expiração
-
-Visualizar credencial
-DevMedia
-Introdução a linguagem JavaScript
-Órgão emissorDevMedia
-
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jan. de 2021Nenhuma data de expiração
-
-Visualizar credencial
-Exin DevOps Master
-Curso Preparatório para a certificação DevOps Master
-Órgão emissorExin DevOps Master
-
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em nov. de 2020Nenhuma data de expiração
-
-TOTVS
-Treinamento - Programação ADVPL - Versão 10
-Órgão emissorTOTVS
-
-Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jun. de 2019Nenhuma data de expiração
-
-Exibir mais 3
- Exibir menos
 </html>
 
