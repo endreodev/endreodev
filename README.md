@@ -3,7 +3,7 @@
   <hr>
   <h3> 👧: &nbsp;About Me </h3>
   - 🎓 &nbsp; University graduate Computer network on <a  target="_blank" href="https://www.icec.edu.br/">ICEC</a> <br>
-  - 🎓 &nbsp; MBA - Software Engineering on <a  target="_blank"  href="https://www.estudesemfronteiras.com/novo/">ICEC</a> <br>
+  - 🎓 &nbsp; MBA - Software Engineering on <a  target="_blank"  href="https://www.estudesemfronteiras.com/novo/">Universidade Metropolitane de São Paulo</a> <br>
   - 🎓 &nbsp; Student Systems DevOps on <a  target="_blank"  href="https://hnz.com.br/">Delphos-Zhuber Informatica e Consultoria</a> <br>
  <br>
   - 💼 &nbsp; Working  on <a  target="_blank"  href="https://www.todimo.com.br/">Todimo</a>
