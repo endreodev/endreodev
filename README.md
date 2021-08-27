@@ -5,7 +5,6 @@
   <h3> 👧: &nbsp;About Me </h3>
   
   - 🎓 &nbsp; Student Systems Analysis and Development on <a href="https://www.icec.edu.br/">FATEC</a> <br>
-  - 🎓 &nbsp; Studied Systems engineering on   <br>
   - 🎓 &nbsp; Student Systems DevOps on <a href="https://hnz.com.br/">Delphos-Zhuber Informatica e Consultoria</a> <br>
  <br>
   - 💼 &nbsp; Working  on <a href="https://www.todimo.com.br/">Todimo</a>
@@ -36,4 +35,65 @@
   <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endreo-figueiredo-ab1005138/" /></a>
 
   </p>
+  
+  Licenças e certificados
+DevMedia
+Certificado de autoridade: JavaScript
+Órgão emissorDevMedia
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em ago. de 2021Nenhuma data de expiração
+
+Visualizar credencial
+DevMedia
+Flutter: Criando a primeira aplicação
+Órgão emissorDevMedia
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em abr. de 2021Nenhuma data de expiração
+
+Visualizar credencial
+DevMedia
+Certificado de autoridade: Flutter
+Órgão emissorDevMedia
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em fev. de 2021Nenhuma data de expiração
+
+Visualizar credencial
+DevMedia
+Certificado de autoridade: Flutter
+Órgão emissorDevMedia
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jan. de 2021Nenhuma data de expiração
+
+Identificador da credencialNº da credencial https://www.devmedia.com.br/certificado/tecnologia/flutter/endreo-figueiredo
+
+Visualizar credencial
+DevMedia
+Introdução a linguagem JavaScript
+Órgão emissorDevMedia
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jan. de 2021Nenhuma data de expiração
+
+Visualizar credencial
+DevMedia
+Introdução a linguagem JavaScript
+Órgão emissorDevMedia
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jan. de 2021Nenhuma data de expiração
+
+Visualizar credencial
+Exin DevOps Master
+Curso Preparatório para a certificação DevOps Master
+Órgão emissorExin DevOps Master
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em nov. de 2020Nenhuma data de expiração
+
+TOTVS
+Treinamento - Programação ADVPL - Versão 10
+Órgão emissorTOTVS
+
+Data de emissão e, se for o caso, data de expiração do certificado ou licençaEmitido em jun. de 2019Nenhuma data de expiração
+
+Exibir mais 3
+ Exibir menos
 </html>
+
