@@ -28,13 +28,9 @@
   <img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/1200px-WhatsApp_logo.svg.png" /></a>
 
   <a  target="_blank" address="mailto:endreo.cba@gmail.com" alt="Gmail">
-  <address>
-  Written by <a href="mailto:mailto:endreo.cba@gmail.com"><img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=endreo.cba@gmail.com" /></a>.<br>
-  Visit us at:<br>
-  endreo.cba@gmail.com<br>
-  Cuiabá-MT<br>
-  BRASIL
-  </address>
+
+  <a href="mailto:mailto:endreo.cba@gmail.com"><img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=endreo.cba@gmail.com" /></a>.<br>
+
   
 
 
