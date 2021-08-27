@@ -37,15 +37,15 @@
   </p>
   
   Licenças e certificados
-  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: JavaScript                  DevMedia :school:
-  - :white_check_mark:🎓 &nbsp;Flutter: Criando a primeira aplicação                  DevMedia :school:
-  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: Flutter                     DevMedia :school:
-  - :white_check_mark:🎓 &nbsp;Introdução a linguagem JavaScript                      DevMedia :school:
-  - :white_check_mark:🎓 &nbsp;Curso Preparatório para a certificação DevOps Master   Exin DevOps Master :school:
-  - :white_check_mark:🎓 &nbsp;Treinamento - Programação ADVPL - Versão 10            Totvs :school:
-  - :white_check_mark:🎓 &nbsp;Gestão de Usuários - Protheus                          Totvs :school:
-  - :white_check_mark:🎓 &nbsp;Arquivos, Tabelas e Campos - Configurador  Totovs      Totvs :school:
-  - :white_check_mark:🎓 &nbsp;O Coaching Aplicado à Liderança                        Grandy :school:
+  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: JavaScript                  :school: DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Flutter: Criando a primeira aplicação                  :school: DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Certificado de autoridade: Flutter                     :school: DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Introdução a linguagem JavaScript                      :school: DevMedia :school:
+  - :white_check_mark:🎓 &nbsp;Curso Preparatório para a certificação DevOps Master   :school: Exin DevOps Master :school:
+  - :white_check_mark:🎓 &nbsp;Treinamento - Programação ADVPL - Versão 10            :school: Totvs :school:
+  - :white_check_mark:🎓 &nbsp;Gestão de Usuários - Protheus                          :school: Totvs :school:
+  - :white_check_mark:🎓 &nbsp;Arquivos, Tabelas e Campos - Configurador  Totovs      :school: Totvs :school:
+  - :white_check_mark:🎓 &nbsp;O Coaching Aplicado à Liderança                        :school: Grandy :school:
   
 
 </html>
