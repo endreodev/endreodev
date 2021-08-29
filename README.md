@@ -11,13 +11,18 @@
   
   <h3>Languages and Tools</h3>
   <hr>
-    <code><img heigth="30" width="100" src="https://img.shields.io/badge/ADVPL-035efc?style=flat&logo=C&logoColor=black" alt="advpl"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code>
-    <code><img height="34" width="100" src="https://nextbigtechnology.com/wp-content/uploads/2020/10/Flutter-Cover.png" alt="Flutter"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="Vs"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=fc03f0&logoColor=white" alt="Bootstrap"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></code>
+    <p align="left">
+    <img alt="ADVPL" src="https://img.shields.io/static/v1?label=&message=ADVPL&&color=sucess" title="ADVPL" />
+	<img alt="SQLServer" src="https://img.shields.io/static/v1?label=&message=SQLServer&&color=sucess" title="SQLServer" />
+    <img alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&&color=blue" title="PHP" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML-fff?style=plastic&logo=HTML5" title="HTML5" />
+	<img alt="CSS3" src="https://img.shields.io/badge/-CSS-fff?style=plastic&logo=CSS3&logoColor=1572B6" title="CSS3" />
+	<img alt="SCSS" src="https://img.shields.io/static/v1?label=&message=SCSS&&color=white" title="SCSS" />
+	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fff?fff&style=plastic&logo=javascript&logoColor=f7ab00" title="JavaScript" />
+	<img alt="JSON" src="https://img.shields.io/badge/-JSON-fff?style=plastic&logo=json&logoColor=1a1a1a" title="JSON" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-fff?style=plastic&logoColor=00758f&logo=mysql" title="MySQL" />
+	<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-fff?style=plastic&logo=bootstrap&logoColor=563D7C" title="Bootstrap" />
+</p>
 
   
   <h3> 📞 &nbsp; Contact Me</h3>
