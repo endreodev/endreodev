@@ -27,14 +27,13 @@
   
   <h3> 📞 &nbsp; Contact Me</h3>
   <hr>
-  <p align="left">
-
+<p align="left">
   <a   target="_blank" href="https://api.whatsapp.com/send?phone=5565981719837&text=Ola!%20Te%20encontrei%20no%20Git" alt="Whatsapp">
   <img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/1200px-WhatsApp_logo.svg.png" /></a>
 
   <a  target="_blank" address="mailto:endreo.cba@gmail.com" alt="Gmail">
 
-  <a href="mailto:mailto:endreo.cba@gmail.com"><img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=endreo.cba@gmail.com" /></a>.<br>
+  <a href="mailto:mailto:endreo.cba@gmail.com"><img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=endreo.cba@gmail.com" /></a>
 
   
 
