@@ -43,7 +43,7 @@
   - :white_check_mark:🎓 &nbsp;Curso Preparatório para a certificação DevOps Master   :school: Exin DevOps Master :school:
   - :white_check_mark:🎓 &nbsp;Treinamento - Programação ADVPL - Versão 10            :school: Totvs :school:
   - :white_check_mark:🎓 &nbsp;Gestão de Usuários - Protheus                          :school: Totvs :school:
-  - :white_check_mark:🎓 &nbsp;Arquivos, Tabelas e Campos - Configurador  Totovs      :school: Totvs :school:
+  - :white_check_mark:🎓 &nbsp;Arquivos, Tabelas e Campos - Configurador  Totvs      :school: Totvs :school:
   - :white_check_mark:🎓 &nbsp;O Coaching Aplicado à Liderança                        :school: Grandy :school:
   
 
