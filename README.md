@@ -8,6 +8,14 @@
  <br>
   - 💼 &nbsp; Working  on <a  target="_blank"  href="https://www.todimo.com.br/">Todimo</a>
   
+<br>
+<br>
+
+> Expert Developer Advpl/Tlpp
+	
+```
+Advpl, Tlpp , Mvc , Rest Api , Soap 
+```
   
   <h3>Languages and Tools</h3>
   <hr>
@@ -34,7 +42,7 @@
 
 
   
-<h3> 📞 &nbsp; Entre em contato</h3>
+<h3> 📞 &nbsp; Entre em contato </h3>
 	
 <hr>
 <p align="center">
