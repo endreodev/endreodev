@@ -63,7 +63,7 @@ Advpl, Tlpp , Mvc , Rest Api , Soap
   
   >Play Story
   
-  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.endreodev.calculador"> Calculadora Simples </a>
+  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.endreodev.calculadora"> Calculadora Simples </a>
 
 
 </html>
