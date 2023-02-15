@@ -9,7 +9,7 @@
 
   <h3> 💼: &nbsp; Working on </h3>
 	
-  >Todimo on <a  target="_blank" href="https://www.todimo.com.br/">Todimo</a> <br>
+  >Fenix Participações on <a  target="_blank" href="https://www.fenixpar.com.br/">Todimo</a> <br>
   >Expert Developer Advpl/Tlpp
 	
 ```
@@ -47,20 +47,25 @@ Advpl, Tlpp , Mvc , Rest Api , Soap
 	</a>
 </p>
   
-	<h3> 📞 &nbsp; Contribuições comunidade ADPVP/TLPP </h3>
-	<hr>
+  <h3>  &nbsp; Contribuições comunidade ADPVP/TLPP </h3>
+  <hr>
+  <p align="center">
+	```
 	Como alterar a ordenação de campos em um ponto de entrada em MVC
 	https://terminaldeinformacao.com/2021/12/20/como-alterar-a-ordenacao-de-campos-em-um-ponto-de-entrada-em-mvc/
-	
+	```
+	```
 	Como enviar um arquivo do Excel via WebService
 	https://terminaldeinformacao.com/2021/12/13/como-enviar-um-arquivo-do-excel-via-webservice/
-	
+	```
+	```
 	Projeto EXECUTIL
-	https://github.com/endreodev/ADVPL-TlPP-PROTHEUS/tree/main/ExecUtil
+	https://github.com/endreodev/ADVPL-TlPP-PROTHEUS/tree/main/ExecUtil	
+	```
+	  
+  </p>  
 	
-  <h3>
-	Flutter - Android 
-  </h3>
+  <h3> Flutter - Android  </h3>
   
   >Play Story
   
