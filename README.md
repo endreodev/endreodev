@@ -79,5 +79,10 @@ Como enviar um arquivo do Excel via WebService
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.endreodev.calculadora"> Calculadora Simples </a>
 
  -->
+		
+	<a  target="_blank"  href="#" alt="pix">
+		<img height=40 src="https://cdn-icons-png.flaticon.com/512/291/291927.png" />
+		Pix: endreo.dev@gmail.com
+	</a>
 </html>
 
