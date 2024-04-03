@@ -56,30 +56,6 @@ Consultor de Analista e Desenvolvedor <br>
   
 <h3> :pencil2: &nbsp; Contribuições comunidade ADPVP/TLPP </h3>
 <hr>
-
-Projeto EXECUTIL
-```
-	https://github.com/endreodev/ADVPL-TlPP-PROTHEUS/tree/main/ExecUtil
-```	
-
-Como alterar a ordenação de campos em um ponto de entrada em MVC
-```
-	https://terminaldeinformacao.com/2021/12/20/como-alterar-a-ordenacao-de-campos-em-um-ponto-de-entrada-em-mvc/
-```
-Como enviar um arquivo do Excel via WebService
-```
-	https://terminaldeinformacao.com/2021/12/13/como-enviar-um-arquivo-do-excel-via-webservice/
-```
-
-	
-<!--   <h3> Flutter - Android  </h3>
-  
-  >Play Story
-  
-  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.endreodev.calculadora"> Calculadora Simples </a>
-
- -->
-
 	
 	
 Contribuições
