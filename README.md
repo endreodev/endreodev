@@ -1,7 +1,7 @@
 # &lt;Endreo Figueiredo/&gt;
 ---
 
-### 👨‍💼 Desenvolvedor FullStak na [Agenda Assessoria](https://agendaassessoria.com.br/)
+### 👨‍💼 Desenvolvedor FullStak na [Agenda Assessoria]([https://agendaassessoria.com.br/](https://www.agendaassessoria.com.br/))
 
 Atualmente, atuo como especialista em integrações, sempre buscando soluções inovadoras e eficazes, utilizando tecnologias modernas como **C# .NET** e **Angular**.
 
