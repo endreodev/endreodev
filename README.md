@@ -1,7 +1,7 @@
 # &lt;Endreo Figueiredo/&gt;
 ---
 
-### 👨‍💼 Especialista em Integrações e Inovações na [Agenda Assessoria](https://agendaassessoria.com.br/)
+### 👨‍💼 Desenvolvedor FullStak na [Agenda Assessoria](https://agendaassessoria.com.br/)
 
 Atualmente, atuo como especialista em integrações, sempre buscando soluções inovadoras e eficazes, utilizando tecnologias modernas como **C# .NET** e **Angular**.
 
@@ -18,12 +18,15 @@ Atualmente, atuo como especialista em integrações, sempre buscando soluções 
 ### 💼 &nbsp;Atividades Profissionais:
 
 #### Principal:
-- **Especialista em Integrações e Inovações** - [Agenda Assessoria](https://agendaassessoria.com.br/)
+- **Full Stack Developer** - [Agenda Assessoria](https://agendaassessoria.com.br/)
 - **Tecnologias**: C# .NET, Angular, APIs REST, Microsserviços
 
 #### Consultor:
-- Expert Developer Advpl/Tlpp - Protheus
+- Especialista em Integrações e Inovações
+- Expert Developer Advpl/Tlpp - ERP Protheus ( Totvs )
 - Advpl, Tlpp, MVC, Rest API, Soap, Angular, Flutter
+- Developer Java/AngularJs - ERP Sankhya
+- Developer Mobile
 
 ---
 
