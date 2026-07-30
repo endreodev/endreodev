@@ -1,76 +1,63 @@
-# <Endreo Figueiredo />  
+# Endreo Figueiredo
 
-## 👨‍💻 Full Stack Developer | Integration Specialist  
+**Full Stack Developer** · .NET | Angular | SQL Server · **AI-Augmented Engineering**
 
-🎯 Currently working as a Full Stack Developer at [Agenda Assessoria](https://www.agendaassessoria.com.br/), leveraging technologies such as **C# .NET**, **Angular**, REST APIs, and microservices. My focus is on creating innovative and robust solutions, especially in system integrations.  
+🇺🇸 English | 🇧🇷 [Versão em Português](README.pt-BR.md)
 
----
-
-### 🎓 Education and Certifications  
-
-- **Bachelor's Degree** in Computer Networks - [ICEC](https://www.icec.edu.br/)  
-- **MBA** in Software Engineering - [Universidade Metropolitana de São Paulo](https://www.estudesemfronteiras.com/novo/)  
-- **DevOps Certification** - [Delphos-Zhuber Informática e Consultoria](https://hnz.com.br/)  
+Full Stack Developer at [Agenda Assessoria](https://www.agendaassessoria.com.br/), building and modernizing mission-critical systems for government entities across Brazil — with AI as part of my daily engineering workflow.
 
 ---
 
-### 💼 Professional Experience  
+### 🚀 Highlights
 
-#### **Full Stack Developer** | [Agenda Assessoria](https://agendaassessoria.com.br/)  
-- **Technologies**: C# .NET, Angular, SQL Server, REST APIs, Microservices  
-- **Key Responsibilities**:  
-  - Development and maintenance of internal systems.  
-  - Complex integrations between local and remote systems.  
-
-#### **Technology Consultant**  
-- Specialist in **AdvPL/TLPP** for Protheus ERP (TOTVS).  
-- Application development using **Java**, **AngularJS**, and **Flutter**.  
-- Focused on solutions for **Sankhya ERP** and integration tools.  
+- 💻 **Enterprise systems** — development and modernization of large-scale social security systems (C# .NET, Angular, SQL Server).
+- 🤖 **AI in production, every day** — AI coding agents (GitHub Copilot and others) for implementation, debugging and code review; LLM APIs for data extraction and process automation.
+- 🔗 **Complex integrations** — e-Social, audit courts (TCE), banking layouts and REST APIs.
+- ⚙️ **Intelligent automation** — RPA bots with Node.js + Playwright combined with AI decision-making.
+- 🏗️ **Legacy modernization** — incremental migrations (.NET Framework → .NET 10) on large production codebases.
+- 📦 **ERP consulting** — Protheus/TOTVS (AdvPL/TLPP) and Sankhya.
 
 ---
 
-### ⚡ Exclusive Skills and Features  
-
-- **Integration Expertise:** Automation of processes, secure and real-time data exchange.  
-- **Custom API Development:** High-performance and reliable solutions.  
-- **Full Stack Development:** End-to-end solutions from databases to front-end.  
-- **ERP Consulting:** Customization and integration expertise for Protheus and Sankhya ERPs.  
-
----
-
-### 🛠️ Technologies and Tools  
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
+
+🎓 MBA in Software Engineering · Bachelor's in Computer Networks · DevOps Certification
 
 ---
 
-### 📞 Contact  
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://api.whatsapp.com/send?phone=5565981719837&text=Hi!%20I%20found%20your%20profile%20on%20GitHub" target="_blank">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/1200px-WhatsApp_logo.svg.png" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:endreo.cba@gmail.com" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:endreo.cba@gmail.com" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/endreo-figueiredo-ab1005138/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endreodev&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="left">
+  <img src="https://ghchart.rshah.org/endreodev" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
 
-### 💰 Contributions  
+### 📞 Contact
 
-If you value my work, consider supporting:  
-**Pix:** endreo.dev@gmail.com  
+<p align="left">
+  <a href="https://www.linkedin.com/in/endreo-figueiredo-ab1005138/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:endreo.cba@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5565981719837&text=Hi!%20I%20found%20your%20profile%20on%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
